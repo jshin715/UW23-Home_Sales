@@ -1,6 +1,6 @@
 # UW23-Home_Sales
 
-analysis:   
+Analysis:   
 
 Home_Sales_colab.ipynb
 
